@@ -1,0 +1,20 @@
+#myContainer {
+  width: 1000px;
+  height: 5px;
+  position: relative;
+  background: yellow;
+}
+
+canvas{
+  position:relative;
+  border:1px solid #000000;
+  z-index:-1;
+
+}
+
+#myAnimation {
+  width: 5px;
+  height: 5px;
+  position: relative;
+  background: red;
+}
